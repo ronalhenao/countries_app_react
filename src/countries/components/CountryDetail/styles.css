@@ -1,0 +1,11 @@
+.country-detail{
+  width: 21.5%;
+  height: 100vh;
+  top: 126px;
+}
+
+@media(min-width:1540px) {
+  .country-detail{
+    width: 22%;
+  }
+}
